@@ -1,12 +1,24 @@
 ---
-slug: "github-leetcode"
-title: "LeetCode"
-repo: "justin-napolitano/LeetCode"
-githubUrl: "https://github.com/justin-napolitano/LeetCode"
-generatedAt: "2025-11-23T09:13:00.328094Z"
-source: "github-auto"
+slug: github-leetcode
+title: Python Solutions for Classic Algorithmic Problems in LeetCode
+repo: justin-napolitano/LeetCode
+githubUrl: https://github.com/justin-napolitano/LeetCode
+generatedAt: '2025-11-23T09:13:00.328094Z'
+source: github-auto
+summary: >-
+  Collection of Python implementations solving common algorithmic problems like Two Sum, linked
+  lists, sliding windows, and sorting with explanations.
+tags:
+  - leetcode
+  - python
+  - data-structures
+seoPrimaryKeyword: leetcode python solutions
+seoSecondaryKeywords:
+  - algorithmic problems
+  - coding interview problems
+  - classic algorithms
+seoOptimized: true
 ---
-
 
 # Technical Overview of the LeetCode Solutions Repository
 
@@ -62,3 +74,4 @@ The `q_56_list_intersection.py` sorts intervals by their start times and merges 
 ## Conclusion
 
 This collection serves as a practical toolkit for revisiting classic algorithmic problems. It balances straightforward implementations with some more advanced techniques, such as binary search partitioning for median finding. The repository is suitable for reference, learning, and incremental extension.
+
