@@ -18,6 +18,13 @@ seoSecondaryKeywords:
   - coding interview problems
   - classic algorithms
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post focuses on algorithmic and data-structure problems typically relevant to data science and
+  programming education domains. Although it is Python code, it isn't automation or devtools setup,
+  nor static site or personal journaling. 'Datascience' includes algorithmic projects and scripts
+  for analysis workflows, best matching this classic algorithm problem solutions repo.
 ---
 
 # Technical Overview of the LeetCode Solutions Repository
@@ -74,4 +81,5 @@ The `q_56_list_intersection.py` sorts intervals by their start times and merges 
 ## Conclusion
 
 This collection serves as a practical toolkit for revisiting classic algorithmic problems. It balances straightforward implementations with some more advanced techniques, such as binary search partitioning for median finding. The repository is suitable for reference, learning, and incremental extension.
+
 
