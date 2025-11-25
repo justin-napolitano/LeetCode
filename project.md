@@ -1,20 +1,27 @@
 ---
 slug: github-leetcode
 id: github-leetcode
-title: LeetCode
+title: Python Solutions for Common LeetCode Problems
 repo: justin-napolitano/LeetCode
 githubUrl: https://github.com/justin-napolitano/LeetCode
 generatedAt: '2025-11-24T21:35:25.880Z'
 source: github-auto
 summary: >-
-  LeetCode Answers repository contains Python solutions to a variety of common
-  algorithmic problems frequently encountered in coding interviews and
-  competitive programming. The repository is structured to provide clear,
-  concise implementations of popular problems.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a repository of Python solutions to popular algorithmic problems for
+  coding interviews and competitive programming.
+tags:
+  - python
+  - leetcode
+  - coding interviews
+  - competitive programming
+seoPrimaryKeyword: python leetcode solutions
+seoSecondaryKeywords:
+  - algorithmic problems
+  - coding interview prep
+  - python algorithms
+  - competitive programming solutions
+  - unit tests for algorithms
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
