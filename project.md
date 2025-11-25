@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/LeetCode
 generatedAt: '2025-11-24T21:35:25.880Z'
 source: github-auto
 summary: >-
-  Explore a repository of Python solutions to popular algorithmic problems for
-  coding interviews and competitive programming.
+  Explore a repository of Python solutions for popular algorithmic problems
+  frequently seen in coding interviews.
 tags:
   - python
   - leetcode
@@ -18,9 +18,9 @@ seoPrimaryKeyword: python leetcode solutions
 seoSecondaryKeywords:
   - algorithmic problems
   - coding interview prep
-  - python algorithms
-  - competitive programming solutions
-  - unit tests for algorithms
+  - python coding challenges
+  - data structures
+  - problem-solving techniques
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
